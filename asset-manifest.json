@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/recipe-creator/static/css/main.15b0ead4.chunk.css",
+    "main.css": "/recipe-creator/static/css/main.d2abdd61.chunk.css",
     "main.js": "/recipe-creator/static/js/main.6248d370.chunk.js",
     "main.js.map": "/recipe-creator/static/js/main.6248d370.chunk.js.map",
     "runtime-main.js": "/recipe-creator/static/js/runtime-main.418b7dd5.js",
@@ -10,7 +10,7 @@
     "static/js/3.28dfe92c.chunk.js": "/recipe-creator/static/js/3.28dfe92c.chunk.js",
     "static/js/3.28dfe92c.chunk.js.map": "/recipe-creator/static/js/3.28dfe92c.chunk.js.map",
     "index.html": "/recipe-creator/index.html",
-    "static/css/main.15b0ead4.chunk.css.map": "/recipe-creator/static/css/main.15b0ead4.chunk.css.map",
+    "static/css/main.d2abdd61.chunk.css.map": "/recipe-creator/static/css/main.d2abdd61.chunk.css.map",
     "static/js/2.cfa95238.chunk.js.LICENSE.txt": "/recipe-creator/static/js/2.cfa95238.chunk.js.LICENSE.txt",
     "static/media/ingredients-for-a-meal-1324588.8c722b45.jpg": "/recipe-creator/static/media/ingredients-for-a-meal-1324588.8c722b45.jpg",
     "static/media/italian-homemade-bread-1-1329086.67f50187.jpg": "/recipe-creator/static/media/italian-homemade-bread-1-1329086.67f50187.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.418b7dd5.js",
     "static/js/2.cfa95238.chunk.js",
-    "static/css/main.15b0ead4.chunk.css",
+    "static/css/main.d2abdd61.chunk.css",
     "static/js/main.6248d370.chunk.js"
   ]
 }
