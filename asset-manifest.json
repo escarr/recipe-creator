@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/recipe-creator/static/css/main.87291620.chunk.css",
-    "main.js": "/recipe-creator/static/js/main.a413f256.chunk.js",
-    "main.js.map": "/recipe-creator/static/js/main.a413f256.chunk.js.map",
-    "runtime-main.js": "/recipe-creator/static/js/runtime-main.608148a6.js",
-    "runtime-main.js.map": "/recipe-creator/static/js/runtime-main.608148a6.js.map",
-    "static/js/2.2d64a5b4.chunk.js": "/recipe-creator/static/js/2.2d64a5b4.chunk.js",
-    "static/js/2.2d64a5b4.chunk.js.map": "/recipe-creator/static/js/2.2d64a5b4.chunk.js.map",
-    "static/js/3.26c0510d.chunk.js": "/recipe-creator/static/js/3.26c0510d.chunk.js",
-    "static/js/3.26c0510d.chunk.js.map": "/recipe-creator/static/js/3.26c0510d.chunk.js.map",
+    "main.js": "/recipe-creator/static/js/main.d86aa017.chunk.js",
+    "main.js.map": "/recipe-creator/static/js/main.d86aa017.chunk.js.map",
+    "runtime-main.js": "/recipe-creator/static/js/runtime-main.09ac5361.js",
+    "runtime-main.js.map": "/recipe-creator/static/js/runtime-main.09ac5361.js.map",
+    "static/js/2.e0ec0ce1.chunk.js": "/recipe-creator/static/js/2.e0ec0ce1.chunk.js",
+    "static/js/2.e0ec0ce1.chunk.js.map": "/recipe-creator/static/js/2.e0ec0ce1.chunk.js.map",
+    "static/js/3.28d7f9f6.chunk.js": "/recipe-creator/static/js/3.28d7f9f6.chunk.js",
+    "static/js/3.28d7f9f6.chunk.js.map": "/recipe-creator/static/js/3.28d7f9f6.chunk.js.map",
     "index.html": "/recipe-creator/index.html",
     "static/css/main.87291620.chunk.css.map": "/recipe-creator/static/css/main.87291620.chunk.css.map",
-    "static/js/2.2d64a5b4.chunk.js.LICENSE.txt": "/recipe-creator/static/js/2.2d64a5b4.chunk.js.LICENSE.txt",
+    "static/js/2.e0ec0ce1.chunk.js.LICENSE.txt": "/recipe-creator/static/js/2.e0ec0ce1.chunk.js.LICENSE.txt",
     "static/media/ingredients-for-a-meal-1324588.8c722b45.jpg": "/recipe-creator/static/media/ingredients-for-a-meal-1324588.8c722b45.jpg",
     "static/media/italian-homemade-bread-1-1329086.67f50187.jpg": "/recipe-creator/static/media/italian-homemade-bread-1-1329086.67f50187.jpg",
     "static/media/recipe-1538714.684634fc.jpg": "/recipe-creator/static/media/recipe-1538714.684634fc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.608148a6.js",
-    "static/js/2.2d64a5b4.chunk.js",
+    "static/js/runtime-main.09ac5361.js",
+    "static/js/2.e0ec0ce1.chunk.js",
     "static/css/main.87291620.chunk.css",
-    "static/js/main.a413f256.chunk.js"
+    "static/js/main.d86aa017.chunk.js"
   ]
 }
