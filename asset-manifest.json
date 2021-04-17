@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7Brecipe-creator%7D/static/css/main.87291620.chunk.css",
+    "main.js": "/%7Brecipe-creator%7D/static/js/main.d86aa017.chunk.js",
+    "main.js.map": "/%7Brecipe-creator%7D/static/js/main.d86aa017.chunk.js.map",
+    "runtime-main.js": "/%7Brecipe-creator%7D/static/js/runtime-main.05103e51.js",
+    "runtime-main.js.map": "/%7Brecipe-creator%7D/static/js/runtime-main.05103e51.js.map",
+    "static/js/2.e0ec0ce1.chunk.js": "/%7Brecipe-creator%7D/static/js/2.e0ec0ce1.chunk.js",
+    "static/js/2.e0ec0ce1.chunk.js.map": "/%7Brecipe-creator%7D/static/js/2.e0ec0ce1.chunk.js.map",
+    "static/js/3.28d7f9f6.chunk.js": "/%7Brecipe-creator%7D/static/js/3.28d7f9f6.chunk.js",
+    "static/js/3.28d7f9f6.chunk.js.map": "/%7Brecipe-creator%7D/static/js/3.28d7f9f6.chunk.js.map",
+    "index.html": "/%7Brecipe-creator%7D/index.html",
+    "static/css/main.87291620.chunk.css.map": "/%7Brecipe-creator%7D/static/css/main.87291620.chunk.css.map",
+    "static/js/2.e0ec0ce1.chunk.js.LICENSE.txt": "/%7Brecipe-creator%7D/static/js/2.e0ec0ce1.chunk.js.LICENSE.txt",
+    "static/media/ingredients-for-a-meal-1324588.8c722b45.jpg": "/%7Brecipe-creator%7D/static/media/ingredients-for-a-meal-1324588.8c722b45.jpg",
+    "static/media/italian-homemade-bread-1-1329086.67f50187.jpg": "/%7Brecipe-creator%7D/static/media/italian-homemade-bread-1-1329086.67f50187.jpg",
+    "static/media/recipe-1538714.684634fc.jpg": "/%7Brecipe-creator%7D/static/media/recipe-1538714.684634fc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05103e51.js",
+    "static/js/2.e0ec0ce1.chunk.js",
+    "static/css/main.87291620.chunk.css",
+    "static/js/main.d86aa017.chunk.js"
+  ]
+}
