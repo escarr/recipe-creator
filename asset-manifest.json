@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/recipe-creator/static/css/main.87291620.chunk.css",
-    "main.js": "/recipe-creator/static/js/main.63aeae74.chunk.js",
-    "main.js.map": "/recipe-creator/static/js/main.63aeae74.chunk.js.map",
+    "main.js": "/recipe-creator/static/js/main.0f355e77.chunk.js",
+    "main.js.map": "/recipe-creator/static/js/main.0f355e77.chunk.js.map",
     "runtime-main.js": "/recipe-creator/static/js/runtime-main.418b7dd5.js",
     "runtime-main.js.map": "/recipe-creator/static/js/runtime-main.418b7dd5.js.map",
     "static/js/2.cfa95238.chunk.js": "/recipe-creator/static/js/2.cfa95238.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.418b7dd5.js",
     "static/js/2.cfa95238.chunk.js",
     "static/css/main.87291620.chunk.css",
-    "static/js/main.63aeae74.chunk.js"
+    "static/js/main.0f355e77.chunk.js"
   ]
 }
