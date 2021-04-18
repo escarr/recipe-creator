@@ -1,13 +1,122 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #EDEAE5;
+  font-size: 16px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.helptext {
+  font-style: italic;
 }
+
+
+#recipe_details div {
+  display: inline-block;
+}
+
+input {
+  height: 20px;
+}
+
+div {
+  padding: 10px;
+}
+
+h2 {
+  font-family: cursive;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+#images{
+  text-align: center;
+}
+
+#img1 {
+  width: 22.5%;
+  height: 22.5%;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+#img2, #img3 {
+  width: 20%;
+  height: 20%;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+#instruction {
+    width: 800px;
+    height: 50px;
+}
+
+#generateRecipe {
+  height: 50px;
+  width: 300px;
+  margin-top: 50px;
+  background-color:#404040;
+  color: #FCE181;
+  font-size: 24px;
+}
+
+
+#recipeInfo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border: 2px gray dashed;
+  margin-top: 25px;
+  padding: 10px;
+}
+
+#recipeDetails{
+  padding-left: 30px;
+  margin: 10px;
+  text-align: left;
+}
+
+#recipeDetails h2 {
+  padding-left: 30px;
+}
+
+#recipeDetails li {
+ text-align: left;
+}
+
+#nutrition_header{
+  padding-top: 10px;
+}
+
+#errors_list {
+  margin-bottom: -75px;
+}
+
+#nutritionInfo {
+  display: flex;
+  justify-content: center;
+}
+
+#nutrition_display {
+  padding-top: 175px;
+  padding-right: 35px;
+  min-width: 200px;
+  text-align: center;
+}
+
+#nutrition_display ul {
+  display: inline-block;
+}
+
+#nutrition_display, .ingredient {
+  list-style-type: none; 
+}
+
+
+#my_dataviz {
+  width: 400px
+}
+
